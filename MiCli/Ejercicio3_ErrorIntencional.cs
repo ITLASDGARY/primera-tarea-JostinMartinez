@@ -12,7 +12,7 @@ public class Ejercicio3_ErrorIntencional
         // TODO: Retorna un mensaje con el valor de la constante
 const int NUMERO = 1;
 // NUMERO = "2";
-
+// prueba 2
 
 
         return "El valor de la constante es " + NUMERO; //OJO: reemplaza este texto
