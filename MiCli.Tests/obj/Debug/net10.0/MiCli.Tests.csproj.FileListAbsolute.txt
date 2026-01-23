@@ -101,3 +101,6 @@
 /workspaces/codespaces-blank/MiCli/MiCli.Tests/obj/Debug/net10.0/MiCli.Tests.pdb
 /workspaces/codespaces-blank/MiCli/MiCli.Tests/obj/Debug/net10.0/MiCli.Tests.genruntimeconfig.cache
 /workspaces/codespaces-blank/MiCli/MiCli.Tests/obj/Debug/net10.0/ref/MiCli.Tests.dll
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli.Tests/obj/Debug/net10.0/MiCli.Tests.dll
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli.Tests/obj/Debug/net10.0/refint/MiCli.Tests.dll
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli.Tests/obj/Debug/net10.0/MiCli.Tests.pdb

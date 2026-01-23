@@ -809,19 +809,19 @@
     ]
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "/home/runner/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/codespaces-blank/MiCli/MiCli.Tests/MiCli.Tests.csproj",
+      "projectUniqueName": "/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli.Tests/MiCli.Tests.csproj",
       "projectName": "MiCli.Tests",
-      "projectPath": "/workspaces/codespaces-blank/MiCli/MiCli.Tests/MiCli.Tests.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/codespaces-blank/MiCli/MiCli.Tests/obj/",
+      "projectPath": "/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli.Tests/MiCli.Tests.csproj",
+      "packagesPath": "/home/runner/.nuget/packages/",
+      "outputPath": "/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "/home/runner/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -833,8 +833,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/workspaces/codespaces-blank/MiCli/MiCli/MiCli.csproj": {
-              "projectPath": "/workspaces/codespaces-blank/MiCli/MiCli/MiCli.csproj"
+            "/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/MiCli.csproj": {
+              "projectPath": "/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/MiCli.csproj"
             }
           }
         }
@@ -886,7 +886,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

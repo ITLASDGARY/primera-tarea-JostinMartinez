@@ -26,3 +26,11 @@
 /workspaces/codespaces-blank/MiCli/obj/Debug/net10.0/MiCli.pdb
 /workspaces/codespaces-blank/MiCli/obj/Debug/net10.0/MiCli.genruntimeconfig.cache
 /workspaces/codespaces-blank/MiCli/obj/Debug/net10.0/ref/MiCli.dll
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/obj/Debug/net10.0/MiCli.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/obj/Debug/net10.0/MiCli.AssemblyInfoInputs.cache
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/obj/Debug/net10.0/MiCli.AssemblyInfo.cs
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/obj/Debug/net10.0/MiCli.csproj.CoreCompileInputs.cache
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/obj/Debug/net10.0/MiCli.sourcelink.json
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/obj/Debug/net10.0/MiCli.dll
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/obj/Debug/net10.0/refint/MiCli.dll
+/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/obj/Debug/net10.0/MiCli.pdb

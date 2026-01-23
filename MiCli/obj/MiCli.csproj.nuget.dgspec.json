@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/codespaces-blank/MiCli/MiCli.csproj": {}
+    "/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/MiCli.csproj": {}
   },
   "projects": {
-    "/workspaces/codespaces-blank/MiCli/MiCli.csproj": {
+    "/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/MiCli.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/codespaces-blank/MiCli/MiCli.csproj",
+        "projectUniqueName": "/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/MiCli.csproj",
         "projectName": "MiCli",
-        "projectPath": "/workspaces/codespaces-blank/MiCli/MiCli.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/codespaces-blank/MiCli/obj/",
+        "projectPath": "/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/MiCli.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/primera-tarea-JostinMartinez/primera-tarea-JostinMartinez/MiCli/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
