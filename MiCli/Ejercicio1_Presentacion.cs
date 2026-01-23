@@ -10,9 +10,9 @@ public class Ejercicio1_Presentacion
 string nombre = "Jostin ";
 string carrera = "Desarollo de software ";
 string hoobie = "Escuchar musica y leer revistas tecnologicas";
-Console.WriteLine("Mi nombre es " + nombre  +  "\n Mi edad es" + edad + " \n Mi Hobbie es" + hoobie);
+string resultado = "Mi nombre es " + nombre  +  "\n Mi carrera es " + carrera + " \n Mi Hobbie es " + hoobie;
         // TODO: Retorna un string con las tres variables en líneas separadas
-        return "reemplaza este texto con tu presentación"; //OJO: reemplaza este texto
+        return resultado; //OJO: reemplaza este texto
         throw new NotImplementedException();
     }
     
