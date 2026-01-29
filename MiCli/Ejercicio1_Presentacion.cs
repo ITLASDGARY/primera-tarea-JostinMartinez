@@ -5,14 +5,20 @@ public class Ejercicio1_Presentacion
 {
     public static string ObtenerPresentacion()
     {
-        // TODO: Declara tres variables string: nombre, carrera y hobby
-        // TODO: Retorna un string con las tres variables en líneas separadas
-        return "reemplaza este texto con tu presentación"; //OJO: reemplaza este texto
-        throw new NotImplementedException();
+     
+        string nombre = "Jostin";
+        string carrera = "Desarrollo de software";
+        string hobby = "Escuchar música y leer revistas tecnológicas";
+
+      
+        return "Mi nombre es " + nombre +
+               "\nMi carrera es " + carrera +
+               "\nMi hobby es " + hobby;
     }
-    
+
     public static void Ejecutar()
     {
         Console.WriteLine(ObtenerPresentacion());
-    }
+    }    
+
 }

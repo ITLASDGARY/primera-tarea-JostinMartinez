@@ -10,7 +10,12 @@ public class Ejercicio3_ErrorIntencional
         // TODO: Lee el error que te da Visual Studio
         // TODO: Comenta la línea que causa el error
         // TODO: Retorna un mensaje con el valor de la constante
-        return "reemplaza este texto con el valor de la constante"; //OJO: reemplaza este texto
+const int NUMERO = 1;
+// NUMERO = "2";
+// prueba 2
+
+
+        return "El valor de la constante es " + NUMERO; //OJO: reemplaza este texto
         throw new NotImplementedException();
     }
     
